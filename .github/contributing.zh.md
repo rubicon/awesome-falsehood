@@ -32,7 +32,7 @@
 
 您的拉取请求应该通过 [官方 Awesome List 的检查器](https://github.com/sindresorhus/awesome-lint)。
 
-这里不需要额外的工作，因为它已经 [通过 GitHub actions 集成](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows)。
+这里不需要额外的工作，因为它已经 [通过 GitHub actions 集成](https://github.com/rubicon/awesome-falsehood/tree/main/.github/workflows)。
 
 您仍然可以通过本地运行检查器来预测问题：
 
