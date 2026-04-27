@@ -32,7 +32,7 @@ This repository has reached an equilibrium state. We are past its accumulation p
 
 Your pull-request should pass the [official Awesome List's linter](https://github.com/sindresorhus/awesome-lint).
 
-No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/kdeldycke/awesome-falsehood/tree/main/.github/workflows).
+No extra work is required here as it is [already integrated by the way of GitHub actions](https://github.com/rubicon/awesome-falsehood/tree/main/.github/workflows).
 
 You can still anticipate issues by running the linter locally with:
 
